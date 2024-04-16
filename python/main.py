@@ -6,7 +6,8 @@ class Character :
         self.strength = strength
         self.speed = speed
 
-nicole = Character("Moon Slashes", 3000, "Midium") # it's argument 
+nicole = Character("Moon Slashes", 3000, "High diff") # it's argument 
+mark = Character("Black Hole", 1000, "low diff")
 
 print(f"Character Nicole the power is : {nicole.power}")
 
