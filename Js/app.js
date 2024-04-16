@@ -13,5 +13,5 @@ class Character {
     }
 }
 
-charOne = Character("Nicole", "Moon Blade", "High diff")
+const charOne = new Character("Nicole", "Moon Blade", "High diff") ;
 charOne = Character.introduction()
