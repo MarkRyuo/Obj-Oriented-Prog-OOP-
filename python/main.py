@@ -23,4 +23,5 @@ charOne.character_speak()
 
 charTwo= Character("Mark","Black Hole", 1000, "low diff")
 charTwo.character_discription()
+charTwo.character_speak()
     
