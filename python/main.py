@@ -1,7 +1,7 @@
 # OOP (Object Oriented Programming)
 
 class Character :
-
+    # Constructor 
     def __init__ (self, name, power, strength, speed) : #  it's like parameter 
         self.name = name
         self.power = power 
