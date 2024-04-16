@@ -7,5 +7,6 @@ class Character :
         self.speed = speed
 
 nicole = Character("Moon Slashes", 3000, "Midium")
+print(nicole)
 
     
