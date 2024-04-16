@@ -10,7 +10,7 @@ class Character :
 
     def character_discription(self) :
         print(f"{self.name} Special power {self.power}") # It's like same as function
-        
+
     def character_speak(self) :
         print(f"Konichiwa {self.name} desu!")
 
@@ -22,7 +22,8 @@ charOne.character_discription()
 # Character to speak 
 charOne.character_speak()
 
-charTwo= Character("Mark","Black Hole", 1000, "low diff")
+charTwo= Character("Mark","Black Hole", 1000, "low diff") # The argument
 charTwo.character_discription()
+#Character to speak
 charTwo.character_speak()
     
