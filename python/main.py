@@ -15,7 +15,7 @@ class Character :
 
 
 charOne= Character("Nicole","Moon Slashes", 3000, "High diff") # it's argument 
-charTwo= Character("Black Hole", 1000, "low diff")
+charTwo= Character("Mark","Black Hole", 1000, "low diff")
 
 
     
