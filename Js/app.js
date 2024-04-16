@@ -14,4 +14,6 @@ class Character {
 }
 
 const charOne = new Character("Nicole", "Moon Blade", "High diff") ;
+
+// call the introduction 
 charOne.introduction() ;
