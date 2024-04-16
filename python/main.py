@@ -18,6 +18,8 @@ class Character :
 
 charOne= Character("Nicole","Moon Slashes", 3000, "High diff") # it's argument
 charOne.character_discription() 
+# Character to speak 
+charOne.character_speak()
 
 charTwo= Character("Mark","Black Hole", 1000, "low diff")
 charTwo.character_discription()
