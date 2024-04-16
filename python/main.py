@@ -1,13 +1,17 @@
 # OOP (Object Oriented Programming)
 
 class Character :
-    
-    def __init__ (self, power, strength, speed) : #  it's like parameter 
+
+    def __init__ (self, name, power, strength, speed) : #  it's like parameter 
+        self.name = name
         self.power = power 
         self.strength = strength
         self.speed = speed
 
     def Pow(self) :
+        print(f"Your power is : {self.power}")
+
+
 
 
 nicole = Character("Moon Slashes", 3000, "High diff") # it's argument 
