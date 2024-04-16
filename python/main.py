@@ -5,6 +5,9 @@ class Character :
         self.power = power 
         self.strength = strength
         self.speed = speed
+        
+    def Pow(self) :
+
 
 nicole = Character("Moon Slashes", 3000, "High diff") # it's argument 
 mark = Character("Black Hole", 1000, "low diff")
