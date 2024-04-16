@@ -9,7 +9,8 @@ class Character :
         self.speed = speed
 
     def character_discription(self) :
-        print(f"Your name is {self.name} your special power is {self.power}") # It's like same as function
+        print(f"{self.name} Special power {self.power}") # It's like same as function
+        
     def character_speak(self) :
         print(f"Konichiwa {self.name} desu!")
 
