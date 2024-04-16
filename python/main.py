@@ -8,6 +8,6 @@ class Character :
 
 nicole = Character("Moon Slashes", 3000, "Midium") # it's argument 
 
-print(f"Character Nicole: {}")
+print(f"Character Nicole: {nicole.power}")
 
     
