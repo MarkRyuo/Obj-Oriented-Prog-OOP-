@@ -8,8 +8,8 @@ class Character :
         self.strength = strength
         self.speed = speed
 
-    def Pow(self) :
-        print(f"Your power is : {self.power}")
+    def character_discription(self) :
+        print(f"Your name is {self.name} your special power is {self.power}")
 
 
 
