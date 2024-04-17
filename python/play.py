@@ -21,3 +21,5 @@ class Person :
 
 person_1 = Person(person1["name"], person1["age"] )
 
+person_1.speak()
+
