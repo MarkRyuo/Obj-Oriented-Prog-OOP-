@@ -17,7 +17,8 @@ class Person :
         if question_name == "good": 
             print(f"Thank's god your good {self.name}")
         elif question_name == "bad" :
-            
+            print(f"Sorry for that {self.name}, your going to be fine")
+        else
 
 
     
