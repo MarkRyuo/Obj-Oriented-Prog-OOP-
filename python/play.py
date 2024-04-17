@@ -12,8 +12,9 @@ class Person :
         print(f"Hey Goodmorning, {self.name} desu, {self.age} years old")
 
     def question(self):
-        question_name = input(f"How are you? {self.name}: ")
-        print(f"Thank's god your good {self.name}")
+        question_name = input(f"How are you? {self.name}, (good or bad): ")
+        question_name.lower(question_name)
+        if question_name == "Good" == 
 
 
     
