@@ -13,7 +13,7 @@ class Person :
 
     def question(self):
         question_name = input(f"How are you? {self.name}, (good or bad): ")
-        question_name.lower(question_name)
+        question_name.lower()
         if question_name == "good": 
             print(f"Thank's god your good {self.name}")
         elif question_name == "bad" :
@@ -22,7 +22,7 @@ class Person :
             print(f"{question_name} is not in the choices")
             while not question_name :
                 question_name = input(f"How are you? {self.name}, (good or bad): ")
-                question_name.lower(question_name)
+                question_name.lower()
 
     
 
