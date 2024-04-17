@@ -20,7 +20,9 @@ class Person :
             print(f"Sorry for that {self.name}, your going to be fine")
         else: 
             print(f"{question_name} is not in the choices")
-
+            while not question_name :
+                question_name = input(f"How are you? {self.name}, (good or bad): ")
+                question_name.lower(question_name)
 
     
 
