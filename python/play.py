@@ -12,7 +12,7 @@ class Person :
         print(f"Hey Goodmorning, {self.name} desu, {self.age} years old")
 
     def question(self):
-        input("How are you?: ")
+        input(f"How are you? {self.name}: ")
 
     
 
