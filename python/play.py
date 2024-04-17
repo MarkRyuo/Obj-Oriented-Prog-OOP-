@@ -11,6 +11,9 @@ class Person :
     def speak (self) :
         print(f"Hey Goodmorning, {self.name} desu, {self.age} years old")
 
+    def question(self):
+        input("How are you?: ")
+
     
 
 # person1 = Person("Mark", 21)
