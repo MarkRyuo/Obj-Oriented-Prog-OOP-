@@ -1,6 +1,8 @@
-from user import person1
+import user
 
 # Play 
+
+person1 = user.person1
 
 class Person :
 
