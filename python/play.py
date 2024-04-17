@@ -19,3 +19,5 @@ class Person :
 # person1.speak()
 # person2.speak()
 
+person_1 = Person(person1["name"], person1["age"] )
+
