@@ -24,5 +24,10 @@ class Person :
 
 person_1 = Person(person1["name"], person1["age"] )
 
+# To speak
 person_1.speak()
+
+# To question
+person_1.question()
+
 
