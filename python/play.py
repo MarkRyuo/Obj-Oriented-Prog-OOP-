@@ -1,3 +1,5 @@
+from user import person1
+
 # Play 
 
 class Person :
