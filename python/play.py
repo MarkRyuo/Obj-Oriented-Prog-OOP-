@@ -8,5 +8,4 @@ class Person :
     
 
 person1 = Person("Mark", 21)
-
-print(person1.name)
+person2 = Person("Nicole", 21)
