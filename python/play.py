@@ -7,7 +7,7 @@ class Person :
         self.age = age
 
     def speak (self) :
-        print(f"Hello Goodmorning")
+        print(f"Hey Goodmorning, {self.name} desu, {self.age} years old")
 
     
 
