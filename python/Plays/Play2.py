@@ -9,7 +9,7 @@ class Person : # Parent
 class Student(Person) : #Child
 
     def __init__(self, fname, lname, age, section):
-        Person.__init__(self, fname, lname, age)
+        Person.__init__(self, fname, lname, age):
         self.section = "IT 3201" # Build in Section
 
     def introduction(self):
