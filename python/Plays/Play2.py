@@ -6,15 +6,17 @@ class Person : # Parent
         self.lname = lname
         self.age = age
 
-class student(Person) : #Child
+class Student(Person) : #Child
 
     def __init__(self, fname, lname, age, section):
         Person.__init__(self, fname, lname, age)
         self.section = "IT 3201" 
 
     def introduction(self):
-        
+        print(f"Konchiwa {self.fname} desu! {self.age} years old currently in section {self.section}")
 
+
+student_1 = 
 
 
 
