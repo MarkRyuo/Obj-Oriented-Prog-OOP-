@@ -17,6 +17,7 @@ class Student(Person) : #Child
 
 
 student_1 = Student("Jhon Mark", "Malupa", 21)
+student_1.introduction()
 
 
 
