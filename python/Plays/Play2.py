@@ -12,6 +12,9 @@ class student(Person) : #Child
         Person.__init__(self, fname, lname, age)
         self.section = "IT 3201" 
 
+    def introduction(self):
+        
+
 
 
 
