@@ -10,6 +10,7 @@ class student(Person) : #Child
 
     def __init__(self, fname, lname, age, section):
         Person.__init__(self, fname, lname, age)
+        self.section = "IT 3201" 
 
 
 
