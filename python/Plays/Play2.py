@@ -1,7 +1,9 @@
 # Play 2 
 
 class Person : # Parent
-    pass
+    def __init__(self, fname, age):
+        self.fname = name 
+        self.age = age
 
 class student(Person) : #Child
 
@@ -10,6 +12,7 @@ class student(Person) : #Child
         self.age = age
         self.section = section
 
-    
+
+
 
 
