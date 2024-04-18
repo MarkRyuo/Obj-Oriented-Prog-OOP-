@@ -20,6 +20,7 @@ student_1 = Student("Jhon Mark", "Malupa", 21)
 student_1.introduction()
 
 Student_2 = Student("Nicole", " ", 21)
+Student_2.introduction()
 
 
 
