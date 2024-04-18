@@ -16,7 +16,7 @@ class Student(Person) : #Child
         print(f"Konchiwa {self.fname} desu! {self.age} years old currently in section {self.section}")
 
 
-student_1 = Student("Jhon Mark", "Malupa")
+student_1 = Student("Jhon Mark", "Malupa", 21)
 
 
 
