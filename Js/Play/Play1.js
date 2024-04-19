@@ -19,5 +19,5 @@ class Person {
 
 const Student_1 = new Person("Ryuo", "Malupa") ;
 Student_1.introduction() ;
-let helllo = Student_1.Age(21) ;
+let helllo = Age(21) ;
 console.log(`Age of ${helllo}`)
