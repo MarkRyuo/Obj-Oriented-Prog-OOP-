@@ -8,7 +8,7 @@ class Person {
     }
 
     introduction(){
-        console.log(`Konichiwa ${this.fname} ${this.lname} desu!`)
+        console.log(`Konichiwa ${this.fname} ${this.lname} desu!`) ;
     }
 }
 
