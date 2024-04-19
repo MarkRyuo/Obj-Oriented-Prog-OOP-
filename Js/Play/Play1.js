@@ -13,3 +13,4 @@ class Person {
 }
 
 const Student_1 = new Person("Ryuo", "Malupa", 21) ;
+Student_1.introduction() ;
