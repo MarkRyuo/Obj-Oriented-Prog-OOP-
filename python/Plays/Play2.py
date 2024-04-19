@@ -1,5 +1,7 @@
 # Play 2 
 
+# Parent and Child 
+
 class Person : # Parent
     def __init__(self, fname, lname, age):
         self.fname = fname 
