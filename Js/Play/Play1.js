@@ -11,7 +11,7 @@ class Person {
         console.log(`Konichiwa ${this.fname} ${this.lname} desu!`) ;
     }
 
-    Age() {
+    Age(_age) {
         _age = this.age ;
         return _age ; 
     }
@@ -19,4 +19,4 @@ class Person {
 
 const Student_1 = new Person("Ryuo", "Malupa") ;
 Student_1.introduction() ;
-Student_1,Age(21) ;
+Student_1.Age(21) ;
