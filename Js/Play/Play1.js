@@ -6,4 +6,6 @@ class Person {
         this.lname = lname ;
         this.age = age ;
     }
+
 }
+
