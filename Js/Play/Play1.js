@@ -12,7 +12,8 @@ class Person {
     }
 
     Age() {
-        
+        _age = this.age ;
+        return _age ; 
     }
 }
 
