@@ -1,7 +1,7 @@
 
 class Person {
 
-    constructor(fname, lname, age){
+    constructor(fname, lname){
         this.fname = fname ;
         this.lname = lname ;
         // this.age = age ;
@@ -11,7 +11,7 @@ class Person {
         console.log(`Konichiwa ${this.fname} ${this.lname} desu!`) ;
     }
 
-    Age() {
+    Age(_age) {
         _age = this.age ;
         return _age ; 
     }
