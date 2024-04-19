@@ -10,6 +10,10 @@ class Person {
     introduction(){
         console.log(`Konichiwa ${this.fname} ${this.lname} desu!`) ;
     }
+
+    Age() {
+        
+    }
 }
 
 const Student_1 = new Person("Ryuo", "Malupa", 21) ;
