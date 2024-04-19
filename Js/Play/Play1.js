@@ -1,7 +1,7 @@
 
 class Person {
 
-    constructor(){
-        
+    constructor(lname, fname, age){
+        this.lname = lname ;
     }
 }
