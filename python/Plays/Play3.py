@@ -1,6 +1,7 @@
 import module
 #OOP
 
+# Inside of the module
 Char1 = module.Char1 
 Char2 = module.Char2
 
