@@ -11,4 +11,7 @@ class Person : # Parent
         self.fname = fname
         self.lname = lname  
 
-class Character(Person) :
+class Character(Person) : # Child
+
+    def __init__(self, fname, lname):
+        super().__init__(fname, lname)
