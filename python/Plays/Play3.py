@@ -19,3 +19,6 @@ class Character(Person) : # Child
         self.fracta = fracta
 
     def speak(self) : 
+        print(f"Konichiwa {self.name} desu!")
+        print(f"Code name: {self.codename}")
+
