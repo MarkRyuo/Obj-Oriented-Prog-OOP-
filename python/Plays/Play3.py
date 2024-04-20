@@ -22,4 +22,4 @@ class Character(Person) : # Child
         print(f"Konichiwa {self.fname} desu!")
         print(f"Code name: {self.codename}")
 
-Character1 = Character(Char1["fname"], )
+Character1 = Character(Char1["fname"], " ", Char1["codename"], Char1["fracta"] )
