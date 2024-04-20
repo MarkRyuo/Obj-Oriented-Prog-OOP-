@@ -1,4 +1,4 @@
-
+import module
 #OOP
 
 class Person :
