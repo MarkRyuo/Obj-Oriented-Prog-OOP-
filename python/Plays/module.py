@@ -1,5 +1,6 @@
 # This is module for Person/Characters
 
-nicole = {
-    "name"
+Char1 = {
+    "codename" : "The lost star",
+    "name" : "Nicole"
 }
