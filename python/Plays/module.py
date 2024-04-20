@@ -2,5 +2,6 @@
 
 Char1 = {
     "codename" : "The lost star",
-    "name" : "Nicole"
+    "name" : "Nicole",
+    "AlterFracata": -2,
 }
