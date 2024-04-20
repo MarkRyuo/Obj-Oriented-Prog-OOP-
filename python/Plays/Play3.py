@@ -13,9 +13,9 @@ class Person : # Parent
 
 class Character(Person) : # Child
 
-    def __init__(self, fname, lname, codename):
+    def __init__(self, fname, lname, codename, fracta):
         super().__init__(fname, lname,)
         self.codename = codename
-        self.
+        self.fracta = fracta
 
     def speak(self) : 
