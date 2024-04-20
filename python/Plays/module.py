@@ -7,5 +7,6 @@ Char1 = {
 }
 
 Char2 = {
-    "codename" : ""
+    "codename" : "",
+    "name" : "Moda"
 }
