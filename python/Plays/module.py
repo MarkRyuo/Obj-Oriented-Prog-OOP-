@@ -1,7 +1,7 @@
 # This is module for Person/Characters
 
 Char1 = {
-    "codename" : "Hope",
+    "codename" : "Light of the Night",
     "name" : "Nicole",
     "fracta": -2, # Level of power 
 }
