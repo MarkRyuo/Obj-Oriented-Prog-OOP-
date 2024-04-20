@@ -5,3 +5,7 @@ Char1 = {
     "name" : "Nicole",
     "fracta": -2, # Level of power 
 }
+
+Char2 = {
+    
+}
