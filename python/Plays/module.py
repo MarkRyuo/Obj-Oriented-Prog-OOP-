@@ -3,5 +3,5 @@
 Char1 = {
     "codename" : "The lost star",
     "name" : "Nicole",
-    "AlterFracata": -2,
+    "fracta": -2, # Level of power 
 }
