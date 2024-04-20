@@ -24,3 +24,6 @@ class Character(Person) : # Child
 
 Character1 = Character(Char1["fname"], " ", Char1["codename"], Char1["fracta"] )
 Character1.speak()
+
+
+
