@@ -7,6 +7,7 @@ Char1 = {
 }
 
 Char2 = {
-    "codename" : "",
-    "name" : "Moda"
+    "codename" : "Greater of Equal",
+    "name" : "Moda",
+    "fracta" : "Unknown" # Level of power
 }
