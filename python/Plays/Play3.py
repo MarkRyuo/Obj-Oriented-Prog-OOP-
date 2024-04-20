@@ -19,7 +19,7 @@ class Character(Person) : # Child
         self.fracta = fracta
 
     def speak(self) : 
-        print(f"Konichiwa {self.name} desu!")
+        print(f"Konichiwa {self.fname} desu!")
         print(f"Code name: {self.codename}")
 
-Character1 = Character(Char1[""])
+Character1 = Character(Char1["fname"], )
