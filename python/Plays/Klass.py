@@ -13,5 +13,5 @@ class Character(Person) :
         self.fracta = fracta
     
     def speak(self) :
-        print(f"Welcome {self.name}")
+        print(f"Welcome {self.fname}")
 
