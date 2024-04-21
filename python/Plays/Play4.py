@@ -5,22 +5,23 @@ import Klass
 Char1 = module.Char1
 Char2 = module.Char2 
 
+Character = Klass.Character()
 
 log = input("Enter your name: ")
 
 while not log :
     log = input("Enter your name: ")
 
-def _log(log, Character) :
+Char1 = Character(Char1["fname"], Char1["lname"], Char1["age"])
+
     
-    if log == Char1["fname"] and log == Char2["fname"]:
+if log == Char1["fname"] and log == Char2["fname"]:
         
-    else :
+else :
         print("????")
 
-_log(log)
 
-Character = Klass.Character()
+
 
     
 
