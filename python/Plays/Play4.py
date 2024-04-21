@@ -1,1 +1,5 @@
-# Create a Log in g
+import module
+
+# Create a Log in 
+
+Char1 = module.Char1
