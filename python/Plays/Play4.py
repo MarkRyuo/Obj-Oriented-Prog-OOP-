@@ -5,8 +5,8 @@ import Klass
 Char1 = module.Char1
 Char2 = module.Char2 
 
-Character = Klass.Character()
-Char1_ = Character(Char1["fname"], Char1["lname"], Char1["age"])
+Character = Klass.Character
+Char1_ = Character(Char1["fname"], " ", Char1["age"])
 
 log = input("Enter your name: ")
 
@@ -16,7 +16,8 @@ while not log :
 if log == Char1["fname"] : 
     Char1_.speak()  
 elif log == Char2["fname"]:
-    Char2_.speak()
+    # Char2_.speak()
+    pass
 else :
     print("????")
 
