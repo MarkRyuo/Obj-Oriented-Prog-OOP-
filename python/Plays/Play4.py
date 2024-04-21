@@ -12,6 +12,8 @@ def _log(log) :
     
     if log == Char1["fname"] :
         print("Hello")
+    else :
+        print("????")
 
 _log(log)
 
