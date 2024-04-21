@@ -6,7 +6,7 @@ Char1 = module.Char1
 Char2 = module.Char2 
 
 Character = Klass.Character
-Char1_ = Character(Char1["fname"], " ", Char1["age"])
+Char1_ = Character(Char1["fname"], " ", Char1["fracta"])
 
 log = input("Enter your name: ")
 
