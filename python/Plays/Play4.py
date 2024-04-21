@@ -20,3 +20,5 @@ def _log(log) :
 
 _log(log)
 
+object = Klass.Person()
+
