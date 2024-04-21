@@ -13,8 +13,10 @@ log = input("Enter your name: ")
 while not log :
     log = input("Enter your name: ")
    
-if log == Char1["fname"] and log == Char2["fname"]:
+if log == Char1["fname"] : 
     Char1.speak()  
+elif log == Char2["fname"]:
+    Char2.speak()
 else :
     print("????")
 
