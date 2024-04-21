@@ -24,7 +24,7 @@ class Character(Person) : # Child
         print(f"Konichiwa {self.fname} {self.lname} desu!")
         print(f"Code name: {self.codename}")
 
-Character1 = Character(Char1["fname"], " ", Char1["codename"], Char1["fracta"] )
+Character1 = Character(Char1["fname"], Char1["lname"], Char1["codename"], Char1["fracta"] )
 Character1.speak()
 
 
