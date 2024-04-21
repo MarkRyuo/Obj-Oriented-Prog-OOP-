@@ -21,7 +21,7 @@ elif log == Char2["fname"]:
 else :
     print("????")
 
-
+# Challange ipasok ang conditional sa isang function
 
 
     
