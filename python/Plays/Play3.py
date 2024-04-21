@@ -5,6 +5,8 @@ import module
 Char1 = module.Char1  # declare a variable para sa laman ng module gumamit ng dot(.) notationg
 Char2 = module.Char2
 
+Char1.add["lname"] ;
+
 class Person : # Parent
 
     def __init__(self, fname, lname) :
@@ -22,7 +24,7 @@ class Character(Person) : # Child
         print(f"Konichiwa {self.fname} {self.lname} desu!")
         print(f"Code name: {self.codename}")
 
-Character1 = Character(Char1["fname"], "Malupa", Char1["codename"], Char1["fracta"] )
+Character1 = Character(Char1["fname"], " ", Char1["codename"], Char1["fracta"] )
 Character1.speak()
 
 
