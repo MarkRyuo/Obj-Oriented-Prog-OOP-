@@ -1,2 +1,4 @@
 # Class 
 
+class Talk :
+    
