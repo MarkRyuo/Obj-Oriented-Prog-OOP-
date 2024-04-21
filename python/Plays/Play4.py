@@ -5,7 +5,7 @@ import Klass
 Char1 = module.Char1
 Char2 = module.Char2 
 
-Character = Klass.Character()
+object = Klass.Character()
 
 log = input("Enter your name: ")
 
