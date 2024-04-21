@@ -2,7 +2,7 @@ import module
 #OOP
 
 # Inside of the module
-Char1 = module.Char1 
+Char1 = module.Char1  # declare a variable para sa laman ng module gumamit ng dot(.) notationg
 Char2 = module.Char2
 
 class Person : # Parent
