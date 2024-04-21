@@ -11,16 +11,19 @@ log = input("Enter your name: ")
 while not log :
     log = input("Enter your name: ")
 
-def _log(log) :
+def _log(log, Character) :
     
     if log == Char1["fname"] and log == Char2["fname"]:
-        print(f"Hello {log}")
+        
     else :
         print("????")
 
 _log(log)
 
 Character = Klass.Character()
+
+    
+
 
 
 
