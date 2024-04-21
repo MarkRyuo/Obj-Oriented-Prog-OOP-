@@ -11,4 +11,5 @@ log = input("Enter your name: ")
 def _log(log) :
     
     if log == Char1["fname"] :
-        
+        print("Hello")
+
