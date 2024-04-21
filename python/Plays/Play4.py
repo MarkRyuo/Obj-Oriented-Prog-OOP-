@@ -16,9 +16,9 @@ Char1 = Character(Char1["fname"], Char1["lname"], Char1["age"])
 
     
 if log == Char1["fname"] and log == Char2["fname"]:
-        
+    Char1.speak()  
 else :
-        print("????")
+    print("????")
 
 
 
