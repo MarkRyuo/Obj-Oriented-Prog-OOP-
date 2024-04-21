@@ -8,9 +8,9 @@ class Person :
 
 class Character(Person) :
 
-    def __init__(self, fname, lname, age):
+    def __init__(self, fname, lname, fracta):
         super().__init__(fname, lname)
-        self.age = age 
+        self.fracta = fracta
     
     def speak(self) :
         print(f"Welcome {self.name}")
