@@ -1,5 +1,5 @@
 import module
-
+import Klass 
 # Create a Log in 
 
 Char1 = module.Char1
