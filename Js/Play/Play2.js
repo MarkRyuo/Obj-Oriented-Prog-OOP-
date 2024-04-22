@@ -3,6 +3,6 @@
 class item {
 
     constructor(barcode_number, product_name, quantity,){
-
+        this.barcode_number = barcode_number ;
     }
 }
