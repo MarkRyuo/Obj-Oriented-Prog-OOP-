@@ -9,6 +9,10 @@ class item {
     }
 
     code(){
-        
+
     }
+}
+
+const btn_open = () => {
+    
 }
