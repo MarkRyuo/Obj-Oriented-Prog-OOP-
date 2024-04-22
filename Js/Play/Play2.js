@@ -9,10 +9,11 @@ class item {
     }
 
     code(){
-        console.log(`{this.barcode}`)
+        console.log(`{this.barcode}`) ;
 
     }
 }
+// Open and display the input in div
 const btn_open = () => {
     document.getElementById("con_").innerHTML = `
     <input type="text" placeholder="Barcode Number" id="_bar> <br> 
