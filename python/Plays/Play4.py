@@ -16,8 +16,8 @@ while not log :
 if log == Char1["fname"] : 
     Char1_.speak()  
 elif log == Char2["fname"]:
-    # Char2_.speak()
-    pass
+    Char2_.speak()
+
 else :
     print("????")
 
