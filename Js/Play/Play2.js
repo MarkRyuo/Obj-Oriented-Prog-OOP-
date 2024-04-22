@@ -14,5 +14,5 @@ class item {
 }
 
 const btn_open = () => {
-    document.getElementById().innerHTML
+    document.getElementById("con_").innerHTML
 }
