@@ -7,4 +7,6 @@ class item {
         this.product_name = product_name ;
         this.quantity = quantity ;
     }
+
+    
 }
