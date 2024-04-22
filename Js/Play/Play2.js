@@ -8,5 +8,7 @@ class item {
         this.quantity = quantity ;
     }
 
-    
+    code(){
+        
+    }
 }
