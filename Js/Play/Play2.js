@@ -13,5 +13,6 @@ class item {
     }
 }
 const btn_open = () => {
-    document.getElementById("con_").innerHTML = `<input type="text"> <br>` ; 
+    document.getElementById("con_").innerHTML = `<input type="text" placeholder="Barcode Number"> <br>` ; 
 }
+
