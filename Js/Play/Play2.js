@@ -2,7 +2,7 @@
 
 class item {
 
-    constructor(){
-        
+    constructor(barcode_number, product_name, quantity,){
+
     }
 }
