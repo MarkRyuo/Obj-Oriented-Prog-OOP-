@@ -16,3 +16,7 @@ class item {
 const btn_open = () => {
     document.getElementById("con_").innerHTML = `<input type="text"> <br>` ; 
 }
+
+const btn_close = () => {
+    
+}
