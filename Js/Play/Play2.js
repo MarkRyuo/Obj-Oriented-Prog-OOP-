@@ -2,4 +2,7 @@
 
 class item {
 
+    constructor(){
+        
+    }
 }
