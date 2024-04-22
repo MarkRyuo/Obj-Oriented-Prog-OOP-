@@ -7,6 +7,7 @@ Char2 = module.Char2
 
 Character = Klass.Character
 Char1_ = Character(Char1["fname"], " ", Char1["fracta"])
+Char2_ = Character(Char2["fname"], " ", Char2["fracta"])
 
 log = input("Enter your name: ")
 
