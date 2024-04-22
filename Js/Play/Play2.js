@@ -9,6 +9,7 @@ class item {
     }
 
     code(){
+        console.log(`{this.barcode}`)
 
     }
 }
