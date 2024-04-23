@@ -1,11 +1,11 @@
 import module
-import Klass 
+import python.Plays._Class as _Class 
 # Create a Log in 
 
 Char1 = module.Char1
 Char2 = module.Char2 
 
-Character = Klass.Character
+Character = _Class.Character
 Char1_ = Character(Char1["fname"], " ", Char1["fracta"])
 Char2_ = Character(Char2["fname"], " ", Char2["fracta"])
 
