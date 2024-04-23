@@ -9,7 +9,7 @@ Character = _Class.Character
 Char1_ = Character(Char1["fname"], " ", Char1["fracta"])
 Char2_ = Character(Char2["fname"], " ", Char2["fracta"])
 
-l_og = input("Enter your name: ")
+_log = input("Enter your name: ")
 
 while not _log :
     _log = input("Enter your name: ")
