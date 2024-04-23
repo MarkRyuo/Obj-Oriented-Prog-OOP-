@@ -15,9 +15,10 @@ class item {
 }
 // Open and display the input in div
 const btn_open = () => {
-    const con_ = document.getElementById("con_").innerHTML ;
-
-    
+    document.getElementById("con_").innerHTML = `
+    <input type="text" placeholder="Barcode Number" id="_bar> <br> 
+    <input type="text" placeholder="ProductName" id="_product"> <br>
+    ` ;
     
 }
 
