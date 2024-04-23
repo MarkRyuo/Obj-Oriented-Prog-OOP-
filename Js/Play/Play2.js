@@ -1,4 +1,4 @@
-// Create Class
+// Create Class 
 
 class item {
 
@@ -16,7 +16,6 @@ class item {
 // Open and display the input in div
 const btn_open = () => {
     document.getElementById("con_").innerHTML = `
-    <input type="text" placeholder="Barcode Number" id="_bar> <br> 
-    <input type="text" placeholder="ProductName" id="_product"> <br> ` ; 
+    <input type="text" placeholder="Barcode Number" id="_bar> <br> ` ; 
 }
 
