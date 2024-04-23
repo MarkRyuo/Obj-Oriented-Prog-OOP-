@@ -17,6 +17,6 @@ class item {
 const btn_open = () => {
     document.getElementById("con_").innerHTML = `
     <input type="text" placeholder="Barcode Number" id="_bar> <br> ` ; 
-    document.getElementById("con_").innerHTML = `<input type="text" placeholder="ProductName" id="_product"> <br>`
+    
 }
 
