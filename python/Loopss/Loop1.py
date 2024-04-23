@@ -1,5 +1,6 @@
 
 _name = input("Enter your name: ") 
 
-for _name in range (0, 4) :
-    print(_name) 
+for count in range (0, 4) :
+    count += _name
+    print(count) 
