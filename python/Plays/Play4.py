@@ -14,9 +14,9 @@ l_og = input("Enter your name: ")
 while not _log :
     _log = input("Enter your name: ")
    
-if log == Char1["fname"] : 
+if _log == Char1["fname"] : 
     Char1_.speak()  
-elif log == Char2["fname"]:
+elif _log == Char2["fname"]:
     Char2_.speak()
 
 else :
