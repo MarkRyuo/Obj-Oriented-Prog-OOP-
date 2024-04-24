@@ -1,2 +1,2 @@
 
-listof_Name = ["Nicole", "Mark", "Ryuo"]
+listof_Name = ["Nicole", "Mark", "Ryuo", "Moda",]
