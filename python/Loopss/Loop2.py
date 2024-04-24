@@ -1,2 +1,2 @@
 
-listof_Name =
+listof_Name = ["Nicole"]
