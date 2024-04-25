@@ -12,3 +12,6 @@ class Character : # Parent
 
 class Person(Character) : # Child 
 
+    def __init__(self, fname, fracta, codename):
+        super().__init__(fname, fracta)
+        self.codename = codename
