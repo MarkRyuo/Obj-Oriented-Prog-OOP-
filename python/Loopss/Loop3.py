@@ -10,5 +10,5 @@ else :
     print(f"SUCCESSFULLY your name : {_input}")
 
 for count in range(0, 4) :
-    print(_input[count])
+    print(_input[count]) 
 
