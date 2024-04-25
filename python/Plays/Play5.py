@@ -3,7 +3,7 @@ import module
 _char1 = module.Char1 
 _char2 = module.Char2
 
-class Character :
+class Character : # Parent 
 
     def __init__(self, fname, fracta) :
         self.fname = fname
@@ -11,3 +11,4 @@ class Character :
 
 
 class Person(Character) : # Child 
+
