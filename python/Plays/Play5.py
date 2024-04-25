@@ -21,3 +21,4 @@ class Person(Character) : # Child
             print(self.codename[count])
 
 _Char1 = Person(_char1["fname"], _char1["fracta"], _char1["codename"]) 
+_Char1.talk()
