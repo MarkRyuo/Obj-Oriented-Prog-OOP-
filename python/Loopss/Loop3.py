@@ -7,4 +7,5 @@ _input = input("Enter a Name: ")
 while not _input :
     _input = input("Enter a Name: ")
 else : 
-    print("SUCCESSFULLY")
+    print(f"SUCCESSFULLY {_input}")
+
