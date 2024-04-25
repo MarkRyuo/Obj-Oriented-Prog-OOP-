@@ -18,3 +18,4 @@ class Person(Character) : # Child
     
     def talk (self) :
         for count in range(0, 5) :
+            print(self.codename)
