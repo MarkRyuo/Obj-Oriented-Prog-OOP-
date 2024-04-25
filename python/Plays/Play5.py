@@ -5,5 +5,5 @@ _char2 = module.Char2
 
 class Character :
 
-    def __init__(self) -> None:
-        pass
+    def __init__(self, fname, fracta) :
+        self.fname = fname
