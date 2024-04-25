@@ -9,4 +9,5 @@ class Character :
         self.fname = fname
         self.fracta = fracta
 
-        
+
+class Person(Character) : # Child 
