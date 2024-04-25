@@ -7,3 +7,6 @@ class Character :
 
     def __init__(self, fname, fracta) :
         self.fname = fname
+        self.fracta = fracta
+
+        
