@@ -19,3 +19,5 @@ class Person(Character) : # Child
     def talk (self) :
         for count in range(0, 5) :
             print(self.codename[count])
+
+_Char1 = Person(_char1["fname"], _char1["fracta"], _char1["codename"]) 
