@@ -4,4 +4,5 @@ _input = input("Enter a Name: ")
 
 # LOOP IF dont enter 
 
-while not _input
+while not _input :
+    _input = input("Enter a Name: ")
