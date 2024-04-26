@@ -38,7 +38,7 @@ def _input (_Char1, _Char2) :
            if x_ == "y" :
                _Char1.talk()
            else :
-                exit()
+                exit
 
     elif input_ == "2" :
         _Char2.talk()
