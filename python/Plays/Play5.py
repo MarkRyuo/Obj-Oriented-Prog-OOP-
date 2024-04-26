@@ -45,6 +45,8 @@ def _input (_Char1, _Char2) :
         x_ = x_.lower(x_)
         if x_ == "y" :
             _Char2.talk()
+        else :
+            exit()
 
     else :
         print(f"{input_} is not in ")
