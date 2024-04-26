@@ -50,4 +50,4 @@ def _input (_Char1, _Char2) :
     else :
         print(f"{input_} is not in ")
 
-_input(_Char1,_Char2)_
+_input(_Char1,_Char2)
