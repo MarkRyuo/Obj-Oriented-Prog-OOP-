@@ -41,7 +41,8 @@ def _input (_Char1, _Char2) :
                 exit()
     elif input_ == "2" :
         # _Char2.talk()
-        x_ = input("Enter (1 or 2) :")
+        x_ = input("Are you sure (y/n):")
+        if x_ ==
     else :
         print(f"{input_} is not in ")
 
