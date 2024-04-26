@@ -28,3 +28,6 @@ def _input () :
     input_ = input("Enter (1 or 2 ) :") 
 
     while not input_ :
+        input_ = input("Enter (1 or 2 ) :")
+    
+     
