@@ -34,9 +34,10 @@ def _input (_Char1, _Char2) :
         # _Char1.talk()
         if input_ :
            x_ = input("Are you sure (y/n): ")
-           x_.lower(x_)
+           x_.lower()
            if x_ == "y" :
                _Char1.talk()
+               print(x_)
            else :
                 exit
 
