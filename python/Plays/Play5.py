@@ -35,6 +35,6 @@ def _input (_Char1, _Char2) :
     elif input_ == "2" :
         _Char2.talk()
     else :
-        print(f"{_input} is not in ")
+        print(f"{input_} is not in ")
 
 _input(_Char1,_Char2)
