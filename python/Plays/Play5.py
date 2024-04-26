@@ -32,7 +32,8 @@ def _input (_Char1, _Char2) :
 
     if input_ == "1" :
         # _Char1.talk()
-        if 
+        if input_ :
+           x = print("Are you sure: ")
     elif input_ == "2" :
         _Char2.talk()
     else :
