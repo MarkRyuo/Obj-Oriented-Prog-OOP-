@@ -24,4 +24,5 @@ _Char1 = Person(_char1["fname"], _char1["fracta"], _char1["codename"])
 
 _Char2 = Person(_char2["fname"],_char2["fracta"],_char2["codename"])
 
-
+def _input () :
+    
