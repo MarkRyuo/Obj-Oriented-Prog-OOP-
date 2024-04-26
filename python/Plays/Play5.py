@@ -47,7 +47,6 @@ def _input (_Char1, _Char2) :
             _Char2.talk()
         else :
             exit()
-
     else :
         print(f"{input_} is not in ")
 
