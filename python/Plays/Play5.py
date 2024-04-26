@@ -31,4 +31,4 @@ def _input (_Char1, _Char2) :
         input_ = input("Enter (1 or 2 ) :")
 
     if input_ == "1" :
-         
+        _Char1.talk()
