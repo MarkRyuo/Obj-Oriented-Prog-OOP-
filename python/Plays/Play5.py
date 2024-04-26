@@ -37,7 +37,6 @@ def _input (_Char1, _Char2) :
            x_ = x_.lower()
            if x_ == "y" :
                _Char1.talk()
-               print(x_)
            else :
                 exit
 
