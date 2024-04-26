@@ -44,6 +44,7 @@ def _input (_Char1, _Char2) :
         x_ = input("Are you sure (y/n) : ")
         x_ = x_.lower(x_)
         if x_ == "y" :
+            _Char2.talk()
 
     else :
         print(f"{input_} is not in ")
