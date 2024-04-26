@@ -29,5 +29,6 @@ def _input () :
 
     while not input_ :
         input_ = input("Enter (1 or 2 ) :")
-    
-     
+
+    if input_ == "1" :
+         
