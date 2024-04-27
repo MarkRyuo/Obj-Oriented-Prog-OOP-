@@ -10,5 +10,5 @@ while(!_name) {
 }
 
 if (_name == "Mark" ){
-    
+    console.log("Your Ban Here")
 }
