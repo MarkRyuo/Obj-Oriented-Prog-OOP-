@@ -4,5 +4,5 @@
 _name = "" ;
 
 while(!_name) {
-
+    _name = ""
 }
