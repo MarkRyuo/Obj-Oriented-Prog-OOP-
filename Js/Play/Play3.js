@@ -8,3 +8,5 @@ while(!_name) {
     console.log(_name)
 
 }
+
+if _name == "Mark" 
