@@ -1,11 +1,10 @@
 
 // loop 
 
-_name = "" ;
+let _name = window.prompt("Enter your name: ") ;
 
 while(!_name) {
-    _name = ""
-else {
-    
-}
+    _name = =
+    console.log()
+
 }
