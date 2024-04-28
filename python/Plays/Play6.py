@@ -1,4 +1,3 @@
 
 for x in range(0, 10) :
-    if x == "4" :
-        
+    for j in range(3, 15) :
