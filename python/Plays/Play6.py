@@ -11,6 +11,8 @@ list_ = [
     "Latte"
 ]
 
-for count in range(1, 4) :
+for count in range(0, 4) :
     print(list_[count])
+
+
 
