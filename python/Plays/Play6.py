@@ -1,9 +1,3 @@
-
-_order = input("What is your order?: ")
-
-while not _order :
-    _order = input("What is your order?: ")
-
 list_ = [
     "Americano",
     "Barako",
@@ -13,6 +7,12 @@ list_ = [
 
 for count in range(0, 4) :
     print(list_[count])
+
+_order = input("What is your order?: ")
+
+while not _order :
+    _order = input("What is your order?: ")
+
 
 
 
