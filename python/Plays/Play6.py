@@ -12,5 +12,5 @@ list_ = [
 ]
 
 for count in range(1, 4) :
-    
+    print(list_[count])
 
