@@ -11,5 +11,6 @@ list_ = [
     "Latte"
 ]
 
-for count in range :
+for count in range(1, 4) :
     
+
