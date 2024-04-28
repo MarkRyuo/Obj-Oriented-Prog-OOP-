@@ -4,3 +4,4 @@ for x in range(0, 10) :
         _j = "*"
         print(_j[j])
 x += j
+print(x)
