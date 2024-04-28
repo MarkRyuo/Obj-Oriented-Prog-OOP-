@@ -10,3 +10,6 @@ list_ = [
     "Mocha",
     "Latte"
 ]
+
+for count in range :
+    
