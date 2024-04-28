@@ -8,4 +8,5 @@ list_ = [
     "Americano",
     "Barako",
     "Mocha",
+    "Latte"
 ]
