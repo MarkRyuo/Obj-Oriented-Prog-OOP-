@@ -14,6 +14,6 @@ while not _order :
     _order = input("What is your order?: ")
 
 if _order in list_ :
-    
+    print(f"Your order is {_order}")
 
 
