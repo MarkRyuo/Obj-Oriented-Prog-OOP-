@@ -11,7 +11,7 @@ _display = input("Display the menu?: (Yes/No): ")
 while not _display :
     _display = input("Display the menu?: (Yes/No)")
 
-_display = _display.low()
+_display = _display.lower()
 
 if _display == "yes" :
     for count in range(0, 4) :
