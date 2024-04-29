@@ -3,6 +3,7 @@
 _display = input("Display the menu?: (Yes/No)")
 
 while not _display :
+    _display = input("Display the menu?: (Yes/No)")
 
 
 list_ = [
