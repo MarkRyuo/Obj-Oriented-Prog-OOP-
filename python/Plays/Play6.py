@@ -1,4 +1,10 @@
 
+list_ = [
+    "Americano",
+    "Barako",
+    "Mocha",
+    "Latte"
+]
 
 _display = input("Display the menu?: (Yes/No)")
 
@@ -9,8 +15,7 @@ _display = _display.low()
 
 if _display == "yes" :
     for count in range(0, 4) :
-    print(list_[count])
-
+        print(list_[count])
 
 
 
