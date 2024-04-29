@@ -7,7 +7,8 @@ while not _display :
 
 _display = _display.low()
 
-if _display == 
+if _display == "yes" :
+    
 
 
 list_ = [
