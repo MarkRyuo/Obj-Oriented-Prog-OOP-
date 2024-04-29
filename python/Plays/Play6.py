@@ -1,4 +1,8 @@
 
+
+_display = input("")
+
+
 list_ = [
     "Americano",
     "Barako",
