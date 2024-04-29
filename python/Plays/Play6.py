@@ -17,6 +17,8 @@ if _display == "yes" :
     for count in range(0, 4) :
         print(list_[count])
 elif _display == "no" :
+    exit()
+
 
 
 
