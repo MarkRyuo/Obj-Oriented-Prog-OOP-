@@ -18,7 +18,8 @@ if _display == "yes" :
         print(list_[count])
 elif _display == "no" :
     exit()
-
+else :
+    print(f"{_display} is not ")
 
 
 
