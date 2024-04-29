@@ -2,6 +2,8 @@
 
 _display = input("Display the menu?: (Yes/No)")
 
+while not _display :
+
 
 list_ = [
     "Americano",
