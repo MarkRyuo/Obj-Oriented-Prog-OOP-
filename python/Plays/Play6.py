@@ -8,15 +8,11 @@ while not _display :
 _display = _display.low()
 
 if _display == "yes" :
+    for count in range(0, 4) :
+    print(list_[count])
 
 
 
-list_ = [
-    "Americano",
-    "Barako",
-    "Mocha",
-    "Latte"
-]
 
 
 
