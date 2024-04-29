@@ -22,9 +22,6 @@ else :
     print(f"{_display} is not ")
 
 
-
-
-
 _order = input("What is your order?: ")
 
 while not _order :
