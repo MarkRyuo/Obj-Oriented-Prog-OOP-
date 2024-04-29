@@ -1,6 +1,6 @@
 
 
-_display = input("")
+_display = input("Display the menu?: ")
 
 
 list_ = [
