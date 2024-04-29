@@ -8,7 +8,7 @@ while not _display :
 _display = _display.low()
 
 if _display == "yes" :
-    
+
 
 
 list_ = [
@@ -18,8 +18,7 @@ list_ = [
     "Latte"
 ]
 
-for count in range(0, 4) :
-    print(list_[count])
+
 
 _order = input("What is your order?: ")
 
