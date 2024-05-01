@@ -7,5 +7,5 @@ class Person :
         self._name = _name 
         self.age = age 
     
-    def talk (self) :
+    def nameOf (self) :
         print(f"Konichiwa {self._name} desu!")  
