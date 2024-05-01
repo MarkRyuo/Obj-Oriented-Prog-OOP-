@@ -18,3 +18,7 @@ ques1 = input("What is your name? ")
 
 while not ques1 :
     ques1 = input("What is your name? ")
+
+ques_age = input("What is ")
+
+_person = Person(ques1, )
