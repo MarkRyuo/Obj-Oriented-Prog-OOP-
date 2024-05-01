@@ -11,4 +11,4 @@ class Person :
         print(f"Konichiwa {self._name} desu!")  
 
     def ageOf (self) :
-        
+        print(f"My age is {self.age} years old")
