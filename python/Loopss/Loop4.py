@@ -8,4 +8,4 @@ class Person :
         self.age = age 
     
     def talk (self) :
-        
+        print(f"Konichiwa {self._name} desu!")  
