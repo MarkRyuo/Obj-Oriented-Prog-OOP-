@@ -28,4 +28,7 @@ while not ques_age :
 
 _person = Person(ques1, ques_age) 
 _person.nameOf() 
-_person.ageOf()
+_person.ageOf(
+
+    
+)
