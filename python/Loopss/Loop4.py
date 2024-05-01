@@ -25,4 +25,5 @@ while not ques_age :
     ques_age = input("What is your age?")
 
 
-_person = Person(ques1, )
+
+_person = Person(ques1, ques_age) 
