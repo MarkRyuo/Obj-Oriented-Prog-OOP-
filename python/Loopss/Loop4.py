@@ -9,3 +9,6 @@ class Person :
     
     def nameOf (self) :
         print(f"Konichiwa {self._name} desu!")  
+
+    def ageOf (self) :
+        
