@@ -1,5 +1,4 @@
 # Loop 4
 
 
-class person :
-    
+class Person :
