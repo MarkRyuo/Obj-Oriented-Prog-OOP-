@@ -30,7 +30,7 @@ def ageloop() :
 
 ageloop_ = ageloop() 
 
-_person = Person(ques1, age) 
+_person = Person(ques1, ageloop_) 
 # _person.nameOf() 
 # _person.ageOf()
 
