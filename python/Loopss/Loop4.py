@@ -52,5 +52,5 @@ def quesage_(_person, ageloop_) :
         _person.ageof()
     
 
-quesage_(_person, ques_age)
+quesage_(_person, ageloop_)
 
