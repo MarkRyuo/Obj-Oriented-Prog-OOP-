@@ -35,5 +35,5 @@ _person = Person(ques1, ques_age)
 def loop(_person, ques1, ques_age) :
 
 
-    if _person :
-        print()
+    if ques1 :
+        _person.name()
