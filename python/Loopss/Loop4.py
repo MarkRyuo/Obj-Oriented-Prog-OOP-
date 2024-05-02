@@ -21,6 +21,8 @@ while not ques1 :
     ques1 = input("What is your name? ")
 
 
+
+
 _person = Person(ques1, ques_age) 
 # _person.nameOf() 
 # _person.ageOf()
