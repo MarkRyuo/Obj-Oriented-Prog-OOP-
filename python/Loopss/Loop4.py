@@ -33,3 +33,12 @@ def quest_(_person, ques1) :
         _person.nameOf()
 
 quest_(_person, ques1)
+
+
+ques_age = input("What is your age?")
+
+while not ques_age :
+    ques_age = input("What is your age?")
+
+
+def quesage_(_person, quest_age)
