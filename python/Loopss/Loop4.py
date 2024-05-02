@@ -45,3 +45,6 @@ def quesage_(_person, ques_age)
     
     if ques_age :
         _person.ageof()
+    
+
+quesage_(_person, ques_age)
