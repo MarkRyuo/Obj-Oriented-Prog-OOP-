@@ -41,7 +41,7 @@ while not ques_age :
     ques_age = input("What is your age?")
 
 
-def quesage_(_person, ques_age)
+def quesage_(_person, ques_age) :
     
     if ques_age :
         _person.ageof()
