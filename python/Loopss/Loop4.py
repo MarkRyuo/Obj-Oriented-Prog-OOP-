@@ -28,6 +28,7 @@ def ageloop() :
         ques_age = input("What is your age?")
     return ques_age 
 
+ageloop_ = ageloop() 
 
 _person = Person(ques1, ques_age) 
 # _person.nameOf() 
