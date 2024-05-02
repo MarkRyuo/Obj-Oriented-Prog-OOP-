@@ -37,3 +37,5 @@ def quest_(_person, ques1) :
 
     if ques1 :
         _person.name()
+
+quest_(_person, ques1)
