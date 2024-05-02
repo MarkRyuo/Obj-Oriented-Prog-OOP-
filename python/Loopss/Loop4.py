@@ -26,6 +26,7 @@ def ageloop() :
 
     while not ques_age :
         ques_age = input("What is your age?")
+    return ques_age 
 
 
 _person = Person(ques1, ques_age) 
