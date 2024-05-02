@@ -44,4 +44,4 @@ while not ques_age :
 def quesage_(_person, ques_age)
     
     if ques_age :
-        _person
+        _person.ageof()
