@@ -32,9 +32,8 @@ _person = Person(ques1, ques_age)
 # _person.ageOf()
 
 
-def loop(_person) :
-    
-    ques1 = input("What is your name?: ")
+def loop(_person, ques1, ques_age) :
+
 
     if _person :
         print()
