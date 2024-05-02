@@ -15,7 +15,7 @@ class Person :
 
 
 
-ques1 = input("What is your name? ")
+ques1 = input("My name is ")
 
 while not ques1 :
     ques1 = input("What is your name? ")
