@@ -46,9 +46,9 @@ quest_(_person, ques1)
 
 
 
-def quesage_(_person, ques_age) :
+def quesage_(_person, ageloop_) :
     
-    if ques_age :
+    if ageloop_ :
         _person.ageof()
     
 
