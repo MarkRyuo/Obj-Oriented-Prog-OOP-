@@ -21,6 +21,11 @@ while not ques1 :
     ques1 = input("What is your name? ")
 
 
+def ageloop() :
+    ques_age = input("What is your age?")
+
+    while not ques_age :
+        ques_age = input("What is your age?")
 
 
 _person = Person(ques1, ques_age) 
