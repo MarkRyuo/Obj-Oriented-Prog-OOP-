@@ -35,10 +35,6 @@ def quest_(_person, ques1) :
 quest_(_person, ques1)
 
 
-ques_age = input("What is your age?")
-
-while not ques_age :
-    ques_age = input("What is your age?")
 
 
 def quesage_(_person, ques_age) :
