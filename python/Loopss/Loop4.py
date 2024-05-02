@@ -13,7 +13,6 @@ class Person :
     def ageOf (self) :
         print(f"My age is {self.age} years old")
 
-    def 
 
 
 ques1 = input("What is your name? ")
