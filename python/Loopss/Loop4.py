@@ -34,5 +34,7 @@ _person = Person(ques1, ques_age)
 
 def loop(_person) :
     
+    ques1 = input("What is your name?: ")
+
     if _person :
         print()
