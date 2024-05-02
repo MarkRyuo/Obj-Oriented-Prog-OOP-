@@ -32,7 +32,7 @@ _person = Person(ques1, ques_age)
 # _person.ageOf()
 
 
-def loop(_person, ques1, ques_age) :
+def loop(_person, ques1) :
 
 
     if ques1 :
