@@ -5,4 +5,4 @@ let _list = {
     name : "Jhon Mark"
 }
 
-console.log(typeof(_list))
+// console.log(typeof(_list))
