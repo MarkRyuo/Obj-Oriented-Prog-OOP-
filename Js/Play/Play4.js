@@ -19,7 +19,7 @@ class Person {
     }
 
     talk() {
-        console.log(`Im ${this.fname} ${this.lname}`)
+        console.log(`Im ${this.fname} ${this.lname}, my age is ${this.age}`)
     }
 }
 
