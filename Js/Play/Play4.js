@@ -1,7 +1,7 @@
 // class 
 
 
-let _list = {
+let _list = { // object list 
     fname : "Jhon Mark",
     lname : "Malupa",
     age : 21
