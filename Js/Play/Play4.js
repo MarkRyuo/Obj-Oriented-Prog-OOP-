@@ -12,7 +12,7 @@ let _list = { // object list
 
 class Person {
 
-    constructor(){
+    constructor(name, lname, age){
         
     }
 }
