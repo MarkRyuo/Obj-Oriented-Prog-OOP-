@@ -9,3 +9,10 @@ let _list = { // object list
 }
 
 // console.log(typeof(_list))
+
+class Person {
+
+    constructor(){
+        
+    }
+}
