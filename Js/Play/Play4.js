@@ -13,6 +13,6 @@ let _list = { // object list
 class Person {
 
     constructor(name, lname, age){
-        
+        this.name = _list["name"] ;
     }
 }
