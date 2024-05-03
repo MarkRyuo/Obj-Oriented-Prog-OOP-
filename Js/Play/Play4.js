@@ -22,3 +22,5 @@ class Person {
         console.log(`Im ${this.fname}`)
     }
 }
+
+_person = new Person(_list["fname"], _list["lname"], _list["age"])
