@@ -23,6 +23,6 @@ class Person {
     }
 }
 
-let _person = new Person(_list["fname"], _list["lname"], _list["age"])
+let _person = new Person(_list["fname"], _list["lname"], _list["age"]) ;
 console.log(_person.talk()) ;
 
