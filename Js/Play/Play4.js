@@ -12,8 +12,8 @@ let _list = { // object list
 
 class Person {
 
-    constructor(fname, lname, age){
-        this.fname = fname ;
+    constructor(_list["fname"], lname, age){
+        this.fname = _list["fname"] ;
         this.lname = lname ;
         this.age = age ;
     }
