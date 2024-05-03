@@ -19,6 +19,6 @@ class Person {
     }
 
     talk() {
-        
+        console.log(`Im ${this.fname}`)
     }
 }
