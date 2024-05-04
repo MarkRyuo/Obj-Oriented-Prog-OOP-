@@ -1,3 +1,5 @@
+// DOM Document Object Model
+
 
 const element = document.getElementById("intro") ;
 
