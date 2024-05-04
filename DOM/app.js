@@ -16,3 +16,6 @@
 // document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[2].innerHTML}` ;
 
 
+// Usong ClassName 
+
+const element = document.getElementsByClassName("intro") ; 
