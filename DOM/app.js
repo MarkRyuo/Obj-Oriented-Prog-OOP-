@@ -1,4 +1,4 @@
 
 const element = document.getElementById("intro").innerHTML ;
 
-document.getElementById("name").innerHTML = "Konichiwa Ryuo Desu"
+document.getElementById("name").innerHTML = "Konichiwa Ryuo Desu" + element.innerHTML ;
