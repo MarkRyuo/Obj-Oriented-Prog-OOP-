@@ -1,2 +1,2 @@
 
-const element = document.getElementById()
+const element = document.getElementById("intro").innerHTML ;
