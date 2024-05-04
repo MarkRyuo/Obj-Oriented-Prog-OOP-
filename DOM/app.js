@@ -9,3 +9,5 @@
 
 
 // Using Tag Name 
+
+const element = document.getElementsByTagName("p") ;
