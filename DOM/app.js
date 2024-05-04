@@ -11,6 +11,8 @@
 // Using Tag Name 
 // Tag Name is using index's
 
-const element = document.getElementsByTagName("p") ;
+// const element = document.getElementsByTagName("p") ;
 
-document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[2].innerHTML}` ;
+// document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[2].innerHTML}` ;
+
+
