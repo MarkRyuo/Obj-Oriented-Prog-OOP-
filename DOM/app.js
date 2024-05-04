@@ -2,6 +2,10 @@
 
 
 // Using ID 
-const element = document.getElementById("intro") ;
 
-document.getElementById("name").innerHTML = `Konichiwa Ryuo Desu ${element.innerHTML}` ;
+// const element = document.getElementById("intro") ;
+
+// document.getElementById("name").innerHTML = `Konichiwa Ryuo Desu ${element.innerHTML}` ;
+
+
+// Using Tag Name 
