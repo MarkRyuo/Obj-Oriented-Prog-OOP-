@@ -11,3 +11,5 @@
 // Using Tag Name 
 
 const element = document.getElementsByTagName("p") ;
+
+document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[]}`
