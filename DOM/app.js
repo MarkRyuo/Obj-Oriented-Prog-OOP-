@@ -12,4 +12,4 @@
 
 const element = document.getElementsByTagName("p") ;
 
-document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[]}`
+document.getElementById("name").innerHTML = `Hello Ryuo desu! ${element[2].innerHTML}`
