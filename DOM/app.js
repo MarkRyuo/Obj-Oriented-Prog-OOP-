@@ -9,6 +9,7 @@
 
 
 // Using Tag Name 
+// Tag Name is using index's
 
 const element = document.getElementsByTagName("p") ;
 
