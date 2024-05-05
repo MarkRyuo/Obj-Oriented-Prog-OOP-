@@ -22,4 +22,4 @@ const element = document.getElementsByClassName("intro") ;
 
 document.getElementById("demo").innerHTML = `Hello Mark ${element[1].innerHTML}` ;
 
-document.getElementsByClassName("intro").style.color = "blue" ;
+document.getElementsByid("demo").style.color = "blue" ;
