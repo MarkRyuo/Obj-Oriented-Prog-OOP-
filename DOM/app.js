@@ -18,6 +18,6 @@
 
 // Usong ClassName 
 
-const element = document.getElementsByClassName("intro") ; 
+// const element = document.getElementsByClassName("intro") ; 
 
-document.getElementById("demo").innerHTML = `Hello Mark ${element[1].innerHTML}` ;
+// document.getElementById("demo").innerHTML = `Hello Mark ${element[1].innerHTML}` ;
