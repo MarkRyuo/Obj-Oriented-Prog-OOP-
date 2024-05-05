@@ -24,4 +24,4 @@ document.getElementById("demo").innerHTML = `Hello Mark ${element[1].innerHTML}`
 
 
 // style.property
-document.getElementsByid("intro").style.color = "red" ;
+document.getElementsById("intro").style.color = "red" ;
