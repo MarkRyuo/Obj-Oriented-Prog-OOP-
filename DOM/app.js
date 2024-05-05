@@ -26,7 +26,7 @@ document.getElementById("demo").innerHTML = `Hello Mark ${element[1].innerHTML}`
 // style.property
 document.getElementById("intro").style.color = "red" ;
 
-
+// Events 
 const trytext = (id) => {
     id.innerHTML = "Halooooooo"
     id.style.color = "blue"
