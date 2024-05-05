@@ -29,4 +29,5 @@ document.getElementById("intro").style.color = "red" ;
 
 const trytext = (id) => {
     id.innerHTML = "Halooooooo"
+    id.style.color = "blue"
 }
