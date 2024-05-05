@@ -22,7 +22,7 @@ while not ques1 :
 
 
 def ageloop() :
-    ques_age = input("What is your age?")
+    ques_age = input("What is your age?: ")
 
     while not ques_age :
         ques_age = input("What is your age?:")
