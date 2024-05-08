@@ -28,3 +28,9 @@ def _Name() :
         else :
             print("Choose from the option")
     return _person 
+
+def main():
+    _Name()
+
+
+main()
