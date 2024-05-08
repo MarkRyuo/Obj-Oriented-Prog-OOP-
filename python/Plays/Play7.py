@@ -5,9 +5,9 @@ from _Class import Character
 CHO_NUM1 = 1
 CHO_NOM2 = 2  
 
-# Import Module 
+# Import Module / 
 # Create List 
-# Loop 
+# Loop / 
 # OOP 
 
 # Create Global Variable for module 
