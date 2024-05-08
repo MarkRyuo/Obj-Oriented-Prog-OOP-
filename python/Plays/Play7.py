@@ -18,7 +18,7 @@ _Char2 = module.Char2
 
 def _Name() :
     while True :
-        person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
+        _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
         if _person.indigit() :
             _person = int(_person)
             if _person 
