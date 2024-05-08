@@ -24,7 +24,7 @@ def _Name() :
             if "1" == _person == "2" :
                 break
             else :
-                
+                print("Please choose the right number")
         else :
             print("Choose from the option")
     return _person 
