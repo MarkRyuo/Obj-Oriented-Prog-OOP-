@@ -7,5 +7,5 @@ import module
 
 # Create Variable for module 
 
-_Char = module.Char1 
+_Char1 = module.Char1 
 _Char2 = module.Char2
