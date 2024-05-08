@@ -21,5 +21,5 @@ def _Name() :
         person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
         if _person.indigit() :
             _person = int(_person)
-            if _perso
+            if _person 
 
