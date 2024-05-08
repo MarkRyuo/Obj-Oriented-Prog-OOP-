@@ -3,8 +3,7 @@ from _Class import Character
 
 # Global Variable
 CHO_NUM1 = 1
-CHO_NOM2 = 2 
- 
+CHO_NOM2 = 2  
 
 
 # Import Module 
