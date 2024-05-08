@@ -2,7 +2,7 @@ import module
 from _Class import Character
 
 # Global Variable
-
+CHOOSE_NUM = 1 
 
 
 # Import Module 
