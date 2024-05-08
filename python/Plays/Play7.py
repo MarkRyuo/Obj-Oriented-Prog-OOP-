@@ -8,3 +8,4 @@ import module
 # Create Variable for module 
 
 _Char = module.Char1 
+_Char2 = module.Char2
