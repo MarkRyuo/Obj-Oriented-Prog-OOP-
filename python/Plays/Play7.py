@@ -23,7 +23,7 @@ def _Name() :
             )
         if _person.isdigit() :
             _person = int(_person)
-            if _person == "1" or _person == "2" :
+            if _person == "1" and _person == "2" :
                 break
             else :
                 print("Please choose the right number")
