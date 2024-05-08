@@ -1,6 +1,10 @@
 import module 
 from _Class import Character
 
+# Global Variable
+
+
+
 # Import Module 
 # Create List 
 # Loop 
@@ -12,5 +16,5 @@ _Char1 = module.Char1
 _Char2 = module.Char2
 
 def _Name() :
-    _person = input("Please Choose here: ")
+    _person = input("Please choose a number (1 or 2)")
 
