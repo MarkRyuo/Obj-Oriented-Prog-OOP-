@@ -17,5 +17,5 @@ _Char1 = module.Char1
 _Char2 = module.Char2
 
 def _Name() :
-    _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2})")
+    _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
 
