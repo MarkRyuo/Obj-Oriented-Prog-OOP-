@@ -5,7 +5,6 @@ from _Class import Character
 CHO_NUM1 = 1
 CHO_NOM2 = 2  
 
-
 # Import Module 
 # Create List 
 # Loop 
@@ -19,7 +18,7 @@ _Char2 = module.Char2
 def _Name() :
     while True :
         _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
-        if _person.indigit() :
+        if _person.isdigit() :
             _person = int(_person)
             if "1" == _person == "2" :
                 break
