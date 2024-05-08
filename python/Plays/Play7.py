@@ -15,6 +15,7 @@ CHO_NOM2 = 2
 _CHAR1 = module.Char1 
 _CHAR2 = module.Char2
 
+
 def _Name() :
     while True :
         _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
