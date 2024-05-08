@@ -21,6 +21,7 @@ def _Name() :
         _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
         if _person.indigit() :
             _person = int(_person)
-            if _person 
+            if _person == "!" :
+                break
         else :
             print("Choose from the option")
