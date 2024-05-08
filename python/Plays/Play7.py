@@ -20,7 +20,7 @@ def _Name() :
         _person = input(f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): ")
         if _person.isdigit() :
             _person = int(_person)
-            if _person == "1" :
+            if _person == "1" and _person == "2" :
                 break
             else :
                 print("Please choose the right number")
