@@ -2,7 +2,8 @@ import module
 from _Class import Character
 
 # Global Variable
-CHOOSE_NUM = 1 
+CHO_NUM1 = 1
+CHO_NOM2 =  
 
 
 # Import Module 
