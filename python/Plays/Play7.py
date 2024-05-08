@@ -22,4 +22,5 @@ def _Name() :
         if _person.indigit() :
             _person = int(_person)
             if _person 
-
+        else :
+            print("Choose from the option")
