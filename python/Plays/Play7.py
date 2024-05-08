@@ -10,10 +10,10 @@ CHO_NOM2 = 2
 # Loop 
 # OOP 
 
-# Create Variable for module 
+# Create Global Variable for module 
 
-_Char1 = module.Char1 
-_Char2 = module.Char2
+_CHAR1 = module.Char1 
+_CHAR2 = module.Char2
 
 def _Name() :
     while True :
