@@ -23,5 +23,8 @@ def _Name() :
             _person = int(_person)
             if "1" == _person == "2" :
                 break
+            else :
+                
         else :
             print("Choose from the option")
+    return _person 
