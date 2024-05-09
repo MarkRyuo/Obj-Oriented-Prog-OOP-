@@ -34,8 +34,8 @@ def _input() :
     return _person 
 
 def _process() :
-    colname = _input()
-    if colname == 1 :
+    colinput = _input()
+    if colinput == 1 :
         _CHAR.speak()
 
 def main():
