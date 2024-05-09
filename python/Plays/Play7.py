@@ -37,6 +37,8 @@ def _process() :
     colinput = _input()
     if colinput == 1 :
         _CHAR.speak()
+    elif colinput == 2 :
+        _CHARR.speak()
 
 def main():
     _process()
