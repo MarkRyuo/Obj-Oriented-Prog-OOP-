@@ -19,7 +19,7 @@ _CHAR = Character(_CHAR1["fname"],_CHAR1["codename"],_CHAR1["fracta"])  # Nicole
 _CHARR = Character(_CHAR2["fname"],_CHAR2["codename"],_CHAR2["fracta"]) # Moda
 
 
-def _input() :
+def _input() : # Loop for input charcter 
     while True :
         _person = input(
             f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): "
@@ -34,7 +34,7 @@ def _input() :
             print("Choose from the option")
     return _person 
 
-def _process() :
+def _process1() :
     colinput = _input()
     if colinput == 1 :
         _CHAR.speak()
@@ -42,6 +42,6 @@ def _process() :
         _CHARR.speak()
 
 def main():
-    _process()
+    _process1()
 
 main()
