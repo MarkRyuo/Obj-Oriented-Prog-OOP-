@@ -36,7 +36,7 @@ def _Name() :
 def _process() :
     colname = _Name()
     if colname == 1 :
-        _char.speak()
+        _CHAR.speak()
 
 def main():
     _process()
