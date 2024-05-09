@@ -19,7 +19,7 @@ _CHAR = Character(_CHAR1["fname"],_CHAR1["codename"],_CHAR1["fracta"])  # Nicole
 _CHARR = Character(_CHAR2["fname"],_CHAR2["codename"],_CHAR2["fracta"]) # Moda
 
 
-def _input() : # Loop for input charcter 
+def _input() : # Loop for input character 
     while True :
         _person = input(
             f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): "
