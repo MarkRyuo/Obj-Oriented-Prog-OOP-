@@ -18,7 +18,7 @@ _CHAR2 = module.Char2
 _CHAR = Character(_CHAR1["fname"],_CHAR1["codename"],_CHAR1["fracta"])
 
 
-def _Name() :
+def _input() :
     while True :
         _person = input(
             f"Please choose a number ({CHO_NUM1} or {CHO_NOM2}): "
@@ -34,7 +34,7 @@ def _Name() :
     return _person 
 
 def _process() :
-    colname = _Name()
+    colname = _input()
     if colname == 1 :
         _CHAR.speak()
 
