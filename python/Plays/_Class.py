@@ -13,7 +13,8 @@ class Character(Person) :
         self.fracta = fracta
     
     def speak(self) :
-        print(f"Welcome {self.fname}")
+        print(f"Thank you for picking me my name is {self.fname}")
     
     def speak1(self) :
+        print(f"")
 
