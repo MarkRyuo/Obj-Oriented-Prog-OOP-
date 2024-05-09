@@ -32,10 +32,10 @@ def _Name() :
     return _person 
 
 def _process() :
-    
+    colname = _Name()
 
 def main():
-    colname = _Name()
+    
 
 
 main()
