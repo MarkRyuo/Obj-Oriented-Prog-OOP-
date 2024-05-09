@@ -15,8 +15,8 @@ CHO_NOM2 = 2
 _CHAR1 = module.Char1 
 _CHAR2 = module.Char2
 
-_CHAR = Character(_CHAR1["fname"],_CHAR1["codename"],_CHAR1["fracta"])
-_CHARR = Character(_CHAR2["fname"],_CHAR2["codename"],_CHAR2["fracta"])
+_CHAR = Character(_CHAR1["fname"],_CHAR1["codename"],_CHAR1["fracta"])  # Nicole
+_CHARR = Character(_CHAR2["fname"],_CHAR2["codename"],_CHAR2["fracta"]) # Moda
 
 
 def _input() :
