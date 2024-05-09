@@ -34,7 +34,7 @@ def _Name() :
 def _process() :
     colname = _Name()
     if colname == 1 :
-        
+        _char = Character(_CHAR1[""])
 
 def main():
     _process()
