@@ -32,7 +32,7 @@ def _Name() :
     return _person 
 
 def main():
-    _Name()
+    colname = _Name()
 
 
 main()
