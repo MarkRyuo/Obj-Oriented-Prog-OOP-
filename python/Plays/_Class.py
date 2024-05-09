@@ -16,5 +16,5 @@ class Character(Person) :
         print(f"Thank you for picking me my name is {self.fname}")
     
     def speak1(self) :
-        print(f"")
+        print(f"Yes i have a code name, My code name is {self.codename}")
 
