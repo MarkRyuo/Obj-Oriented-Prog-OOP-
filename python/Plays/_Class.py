@@ -14,4 +14,6 @@ class Character(Person) :
     
     def speak(self) :
         print(f"Welcome {self.fname}")
+    
+    def speak1(self) :
 
