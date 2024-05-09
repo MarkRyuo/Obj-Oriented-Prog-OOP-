@@ -8,8 +8,8 @@ class Person :
 
 class Character(Person) :
 
-    def __init__(self, fname, lname, fracta):
-        super().__init__(fname, lname)
+    def __init__(self, fname, codename, fracta):
+        super().__init__(fname, codename)
         self.fracta = fracta
     
     def speak(self) :
