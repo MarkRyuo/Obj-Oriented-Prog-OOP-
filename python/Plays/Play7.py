@@ -35,7 +35,6 @@ def _process() :
     colname = _Name()
 
 def main():
-    
-
+    _process()
 
 main()
