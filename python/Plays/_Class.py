@@ -2,9 +2,9 @@
 
 class Person :
 
-    def __init__(self, fname, lname ) : 
+    def __init__(self, fname, codename ) : 
         self.fname = fname
-        self.lname = lname
+        self.codename = codename
 
 class Character(Person) :
 
