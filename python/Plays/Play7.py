@@ -33,6 +33,8 @@ def _Name() :
 
 def _process() :
     colname = _Name()
+    if colname == 1 :
+        
 
 def main():
     _process()
