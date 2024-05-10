@@ -42,7 +42,9 @@ def _process1() :
         _CHARR.speak()
 
 def _input2():
-    _talk1 = input("What is your name?: ")
+    while True :
+        _talk1 = input("What is your name?: ")
+    
 
 def main():
     _process1()
