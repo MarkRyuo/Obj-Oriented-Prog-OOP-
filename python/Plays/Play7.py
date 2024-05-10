@@ -55,8 +55,9 @@ def _process2():
     while True: 
         col_input_ = input(f"Nice to meet you {col_input}, What can I serve you? ")
         if col_input :
+            break 
         else :
-            ()
+            print("")
 
 def main():
     _process1()
