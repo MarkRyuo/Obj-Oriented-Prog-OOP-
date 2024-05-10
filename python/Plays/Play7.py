@@ -50,6 +50,7 @@ def _input2():
             print("Please input your name!")
     return _talk1 
 
+
 def main():
     _process1()
 
