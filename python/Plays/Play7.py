@@ -55,6 +55,8 @@ def _process2();
 
     if col_input :
         print(f"Hi {col_input}, Nice to meet you ")
+    else :
+        exit()
 
 def main():
     _process1()
