@@ -58,6 +58,7 @@ def _process2():
             break 
         else :
             print("Tell me!")
+    return col_input_
 
 def main():
     _process1()
