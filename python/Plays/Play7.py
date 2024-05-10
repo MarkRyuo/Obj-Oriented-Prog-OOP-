@@ -50,6 +50,8 @@ def _input2():
             print("Please input your name!")
     return _talk1 
 
+# def _process2();
+#     col_input = _input2()
 
 def main():
     _process1()
