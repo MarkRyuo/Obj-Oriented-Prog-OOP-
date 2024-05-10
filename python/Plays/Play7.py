@@ -41,6 +41,9 @@ def _process1() :
     elif colinput == 2 :
         _CHARR.speak()
 
+def _input2():
+    _talk1 = input("What is your name?: ")
+
 def main():
     _process1()
 
