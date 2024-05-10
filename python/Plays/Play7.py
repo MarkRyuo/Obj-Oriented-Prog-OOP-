@@ -60,6 +60,6 @@ def _process2();
 
 def main():
     _process1()
-    _input2()
+    _pro
 
 main()
