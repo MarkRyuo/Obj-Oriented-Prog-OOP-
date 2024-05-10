@@ -44,7 +44,9 @@ def _process1() :
 def _input2():
     while True :
         _talk1 = input("What is your name?: ")
-    
+        if not _talk1 :
+            print()
+
 
 def main():
     _process1()
