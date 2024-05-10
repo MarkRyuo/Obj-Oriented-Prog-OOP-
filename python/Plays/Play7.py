@@ -50,11 +50,14 @@ def _input2():
             print("Please input your name!")
     return _talk1 
 
-# def _process2();
-#     col_input = _input2()
+def _process2();
+    col_input = _input2()
+
+    if col_input :
+        print(f"Hi {col_input}, Nice to meet you ")
 
 def main():
     _process1()
-    _input2
+    _input2()
 
 main()
