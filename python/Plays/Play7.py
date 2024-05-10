@@ -47,7 +47,7 @@ def _input2():
         if _talk1 :
             break 
         else :
-            print("Please input your name")
+            print("Please input your name!")
 
 def main():
     _process1()
