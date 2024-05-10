@@ -55,5 +55,6 @@ def _input2():
 
 def main():
     _process1()
+    _input2
 
 main()
