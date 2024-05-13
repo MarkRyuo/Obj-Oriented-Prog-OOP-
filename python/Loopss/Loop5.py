@@ -16,4 +16,4 @@ def Loop() :
         print(input1)
 
 
-loop()
+Loop()
