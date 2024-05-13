@@ -13,4 +13,7 @@ def Loop() :
 
     for i in range(even_numbers) :
         input1[i]
-        print(input)
+        print(input1)
+
+
+loop()
