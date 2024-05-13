@@ -12,4 +12,4 @@ def Loop() :
     input1 = input("Enter a number: ")
 
     for i in range(even_numbers) :
-        
+        input1[i]
