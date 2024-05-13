@@ -2,4 +2,4 @@
 
 
 def Loop() :
-    input1 = input("")
+    input1 = input("Enter a number: ")
