@@ -19,11 +19,11 @@ even_numbers = [
 
 # Loop()
 
-def Loop(even_numbers) :
+def Loop() :
     # input1 = input("Enter a number: ")
     
     for i in even_numbers :
         print(even_numbers[i])
 
 
-Loop(even_numbers)
+Loop()
