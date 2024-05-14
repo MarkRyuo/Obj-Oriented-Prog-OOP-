@@ -20,11 +20,11 @@ even_numbers = [
 # Loop()
 
 def Loop() :
-    input1 = input("Enter a number: ")
+    input1 = int(input("Enter a number: "))
     
     # for each i in even_numbers
     for i in even_numbers :
         if input1 :
-
+            
 
 Loop()
