@@ -25,6 +25,7 @@ def Loop() :
     # for each i in even_numbers
     for i in even_numbers :
         if input1 :
-            
+            sumthe = input1 + i 
+            print(sumthe)
 
 Loop()
