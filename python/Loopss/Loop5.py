@@ -23,7 +23,7 @@ def Loop() :
     input1 = input("Enter a number: ")
     
     for i in even_numbers :
-        even_numbers[i]
+        print(even_numbers[i]
 
 
 Loop()
