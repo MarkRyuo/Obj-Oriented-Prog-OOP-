@@ -24,7 +24,7 @@ def Loop() :
     
     # for each i in even_numbers
     for i in even_numbers :
-        print(even_numbers[i])
+        print(i)
 
 
 Loop()
