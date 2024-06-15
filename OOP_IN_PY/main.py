@@ -2,4 +2,5 @@
 
 class Dog() :
 
-    prin
+    def bark(self) :
+        
