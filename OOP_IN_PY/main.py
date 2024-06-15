@@ -9,7 +9,7 @@ class Dog() :
         print("Aw aw aw")
 
 d = Dog() #* Declare a variable for class Dog 
-d.bark() #* call the variable d and bark 
+d.bark() #* call the variable d and bark function 
 
 
 class Calculator() :
