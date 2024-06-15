@@ -8,7 +8,7 @@ class Dog() :
 
 d = Dog()
 
-d.bark()
+# d.bark()
 
 
 class Calculator() :
