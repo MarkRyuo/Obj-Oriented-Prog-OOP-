@@ -23,4 +23,4 @@ class Calculator() :
 
 
 add = Calculator()
-add.add_(4)
+print(add.add_(4))
