@@ -2,9 +2,11 @@
 
 class Dog() :
 
+    def __init__(self) -> None:
+        pass
+
     def bark(self) :
         print("Aw aw aw")
-
 
 d = Dog()
 
