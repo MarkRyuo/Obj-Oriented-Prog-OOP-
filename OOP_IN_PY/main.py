@@ -22,5 +22,5 @@ class Calculator() :
     
 
 
-add = Calculator()
+add = Calculator() # * declare a variable, na nasa loob ay 
 print(add.add_(4)) # * argument number 4 
