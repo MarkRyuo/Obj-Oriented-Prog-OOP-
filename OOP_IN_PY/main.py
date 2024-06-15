@@ -9,7 +9,6 @@ class Dog() :
         print("Aw aw aw")
 
 d = Dog()
-
 d.bark()
 
 
