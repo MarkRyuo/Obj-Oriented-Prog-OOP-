@@ -13,4 +13,9 @@ class Log :
 
         if username :
             print(f"Hi {self._name}")
+        else :
+            pass
+
+
+p1 = Log()
 
