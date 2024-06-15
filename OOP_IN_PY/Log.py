@@ -4,4 +4,4 @@
 class Log :
 
     def __init__(self, _name, _age) :
-        self.name = _name 
+        self._name = _name  # * This called Attributes
