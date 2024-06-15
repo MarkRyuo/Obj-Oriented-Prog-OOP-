@@ -11,5 +11,11 @@ d = Dog()
 d.bark()
 
 
-class Add() :
-    
+class Calculator() :
+
+    def __init__(self) -> None:
+        pass
+
+    def add(self) :
+
+        
