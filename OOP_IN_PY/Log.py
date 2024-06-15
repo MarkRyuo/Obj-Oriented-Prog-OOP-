@@ -9,4 +9,8 @@ class Log :
 
     def Log_in(self) :
 
-        username = input("")
+        username = input("Enter your name: ")
+
+        if username :
+            print(f"Hi {self._name}")
+
