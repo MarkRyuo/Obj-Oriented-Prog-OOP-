@@ -7,4 +7,6 @@ class Log :
         self._name = _name  # * This called Attributes
         self._age = _age 
 
-    def Log_in(self)
+    def Log_in(self) :
+
+        username = input("")
