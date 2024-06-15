@@ -8,7 +8,7 @@ class Dog() :
     def bark(self) :
         print("Aw aw aw")
 
-d = Dog() #* Declare a variable 
+d = Dog() #* Declare a variable for class Dog 
 d.bark()
 
 
