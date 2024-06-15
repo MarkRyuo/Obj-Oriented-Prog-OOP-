@@ -18,4 +18,5 @@ class Log :
 
 
 p1 = Log()
+p1.Log_in()
 
