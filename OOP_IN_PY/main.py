@@ -23,4 +23,4 @@ class Calculator() :
 
 
 add = Calculator()
-add.add_()
+add.add_(4)
