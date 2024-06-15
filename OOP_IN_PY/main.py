@@ -16,11 +16,11 @@ class Calculator() :
     def __init__(self) -> None:
         pass
 
-    def add_(self, x) :
+    def add_(self, x) : # * Parameter x 
 
         return x + 4 
     
 
 
 add = Calculator()
-print(add.add_(4))
+print(add.add_(4)) # * argument number 4 
