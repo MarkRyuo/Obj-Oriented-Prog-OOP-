@@ -10,8 +10,10 @@ class Log :
     def Username(self) :
 
         user = True 
-        
-         
+
+        while user :
+
+            username = input() 
 
 
 
