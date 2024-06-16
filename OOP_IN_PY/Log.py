@@ -11,7 +11,7 @@ class Student :
         return self.grade
     
 
-class course :
+class Course :
 
     def __init__(self, course_name, max_student) :
         self.course_name = course_name 
@@ -33,6 +33,8 @@ S1 = Student("Jhon Mark", 19, 85)
 S2 = Student("Niyari", 19, 100)
 S3 = Student("Sopheya", 19, 95)
 S4 = Student("Riyuo", 19, 85)
+
+
 
 
 
