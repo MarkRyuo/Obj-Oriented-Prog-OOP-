@@ -24,7 +24,7 @@ class course :
             return True
         return False
     
-    def get_avarage_grade(self) :
+    def get_average_grade(self) :
         pass
 
 
