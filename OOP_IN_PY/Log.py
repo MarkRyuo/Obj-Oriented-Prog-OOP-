@@ -27,8 +27,10 @@ class course :
     def get_average_grade(self) :
         pass
 
-S1 = Student("Jhon Mark", 19, )
+S1 = Student("Jhon Mark", 19, 85)
 S2 = Student("Niyari", 19, 100)
+S3 = Student("Sopheya", 19, 95)
+S4 = Student("Riyuo", 19, 85)
 
 
 
