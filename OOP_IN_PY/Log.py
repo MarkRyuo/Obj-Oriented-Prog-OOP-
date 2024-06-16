@@ -24,7 +24,9 @@ class Log :
 
 
 
-class Main(): 
+class Main :
+
+     
     
 
 
