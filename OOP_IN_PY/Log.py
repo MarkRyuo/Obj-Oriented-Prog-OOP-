@@ -23,6 +23,9 @@ class course :
             self.students.append(student)
             return True
         return False
+    
+    def get_avarage_grade(self) :
+        pass
 
 
 
