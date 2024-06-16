@@ -7,7 +7,9 @@ class Log :
         self._name = _name  # * This called Attributes
         self._age = _age 
 
-   def 
+    def Username(self) :
+
+        user = True  
 
 
 
