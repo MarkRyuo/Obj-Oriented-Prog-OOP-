@@ -37,7 +37,7 @@ S4 = Student("Riyuo", 19, 85)
 
 course = Course("Magic", 2)
 
-course.add_student(S1)
+course.add_student(S2)
 
 print(course.students[1].name)
 
