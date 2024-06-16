@@ -16,7 +16,13 @@ class course :
     def __init__(self, course_name, max_student) :
         self.course_name = course_name 
         self.max_students = max_student
-        self.students = []
+        self.students = [] 
+
+    def add_student(self, student) :
+        if len(self.students) < self.max_students :
+            self.students.append(student)
+            return True
+        return False
 
 
 
