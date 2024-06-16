@@ -13,7 +13,10 @@ class Log :
 
         while user :
 
-            username = input() 
+            username = input("Enter your name: ")
+
+            if username :
+                print("hello") 
 
 
 
