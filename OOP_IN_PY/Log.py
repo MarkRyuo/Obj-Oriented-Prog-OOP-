@@ -39,7 +39,7 @@ course = Course("Magic", 2)
 
 course.add_student(S1)
 
-print(course.add_student[0].name)
+print(course.students[1].name)
 
 
 
