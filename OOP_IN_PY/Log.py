@@ -37,6 +37,8 @@ S4 = Student("Riyuo", 19, 85)
 
 course = Course("Magic", 2)
 
+course.add_student(S1)
+
 
 
 
