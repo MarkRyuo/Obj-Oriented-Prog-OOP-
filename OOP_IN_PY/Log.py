@@ -27,5 +27,7 @@ class course :
     def get_average_grade(self) :
         pass
 
+S1 = Student("Jhon Mark", 19, 95)
+
 
 
