@@ -15,10 +15,8 @@ class course :
 
     def __init__(self, course_name, max_student) :
         self.course_name = course_name 
-        self.max_students = max
-
-     
-    
+        self.max_students = max_student
+        self.students = []
 
 
 
