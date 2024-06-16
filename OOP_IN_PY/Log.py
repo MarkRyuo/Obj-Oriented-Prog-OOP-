@@ -19,7 +19,13 @@ class Log :
                 print("hello")
                 break 
             else :
-                print("LOL enter a name") 
+                print("LOL enter a name")
+
+
+
+
+class Main(): 
+    
 
 
 
