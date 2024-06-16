@@ -16,7 +16,10 @@ class Log :
             username = input("Enter your name: ")
 
             if username :
-                print("hello") 
+                print("hello")
+                break 
+            else :
+                print("LOL enter a name") 
 
 
 
