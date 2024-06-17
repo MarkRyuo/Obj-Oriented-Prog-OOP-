@@ -29,7 +29,7 @@ class Course :
 
 
 
-S1 = Student("Jhon Mark", 19, 85) # * Name of student, age of student, grade of students
+S1 = Student("Jhon Mark", 19, 85) # * Name of student, age of student, and grade of students
 S2 = Student("Niyari", 19, 100)
 S3 = Student("Sopheya", 19, 95)
 S4 = Student("Riyuo", 19, 85)
@@ -39,7 +39,7 @@ course = Course("Magic", 2) # * Course is Magic then the Max student is 2
 
 course.add_student(S2)
 
-print(course.students[0].name)
+print(course.students[0].name) # * Indexing 
 
 
 
