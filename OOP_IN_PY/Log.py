@@ -41,7 +41,7 @@ course.add_student(S1) # * Explanation : This is adding to the empty list in sel
 course.add_student(S2)
 course.add_student(S3)
 
-print(course.students[0].name) # * Indexing 
+print(course.students[2].name) # * Indexing 
 
 
 
