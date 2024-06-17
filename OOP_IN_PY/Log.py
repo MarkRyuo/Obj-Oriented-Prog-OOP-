@@ -19,7 +19,7 @@ class Course :
         self.students = [] 
 
     def add_student(self, student) :
-        if len(self.students) < self.max_students :
+        if len(self.students) > self.max_students :
             self.students.append(student)
             return True
         return False
@@ -41,7 +41,7 @@ course.add_student(S1) # * Explanation : This is adding to the empty list in sel
 course.add_student(S2)
 course.add_student(S3)
 
-print(course.students[1].name) # * Indexing 
+print(course.students[0].name) # * Indexing 
 
 
 
