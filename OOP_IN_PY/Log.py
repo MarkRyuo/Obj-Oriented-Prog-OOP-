@@ -22,7 +22,7 @@ class Course :
         if len(self.students) < self.max_students :
             self.students.append(student)
             return True
-        # return False
+        return False
     
     def get_average_grade(self) :
         pass
