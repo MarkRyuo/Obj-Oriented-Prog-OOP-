@@ -19,8 +19,8 @@ class Course :
         self.students = [] # * Length of this list is 0 
 
     def add_student(self, student) :
-        if len(self.students) < self.max_students :
-            self.students.append(student)
+        if len(self.students) < self.max_students : 
+            self.students.append(student) # * Appending in Tagalog : 
             return True
         return False
     
