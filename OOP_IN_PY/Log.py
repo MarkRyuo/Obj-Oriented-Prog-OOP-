@@ -21,8 +21,8 @@ class Course :
     def add_student(self, student) :
         if len(self.students) < self.max_students : 
             self.students.append(student) # * Appending in Tagalog :  ilagay mo ang student sa self.student 
-            return True
-        return False
+        #     return True
+        # return False
     
     def get_average_grade(self) :
         pass
