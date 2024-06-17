@@ -37,7 +37,7 @@ S4 = Student("Riyuo", 19, 85)
 
 course = Course("Magic", 2) # * Course is Magic then the Max student is 2 
 
-course.add_student(S1)
+course.add_student(S1) # * Explanation : This is adding to the empty list in self.student
 course.add_student(S2)
 
 print(course.students[0].name) # * Indexing 
