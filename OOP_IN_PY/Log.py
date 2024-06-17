@@ -35,7 +35,7 @@ S3 = Student("Sopheya", 19, 95)
 S4 = Student("Riyuo", 19, 85)
 
 
-course = Course("Magic", 2)
+course = Course("Magic", 2) # * Course is Magic then the Max student is 2 
 
 course.add_student(S2)
 
