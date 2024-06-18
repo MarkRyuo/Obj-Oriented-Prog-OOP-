@@ -44,3 +44,7 @@ course.add_student(S3)
 print(course.students[1].name) # * Indexing 
 
 
+
+
+
+
